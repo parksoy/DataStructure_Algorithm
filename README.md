@@ -5,121 +5,119 @@
   sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
 
 ### Week 1. Programming Challenges
-Solving the Sum of Two Digits Programming Challenge (screencast)6m
-Solving the Maximum Pairwise Product Programming Challenge: Improving the Naive Solution, Testing, Debugging13m
-Stress Test - Implementation8m
-Stress Test - Find the Test and Debug7m
-Stress Test - More Testing, Submit and Pass!8m
+Solving the Sum of Two Digits Programming Challenge (screencast)  
+Solving the Maximum Pairwise Product Programming Challenge: Improving the Naive Solution, Testing, Debugging  
+Stress Test - Implementation  
+Stress Test - Find the Test and Debug  
+Stress Test - More Testing, Submit and Pass  
 
 Programming Assignment: Programming Assignment 1: Maximum Pairwise Product
 
 ### Week 2. Algorithmic Warm-up
-Why Study Algorithms?7m
-Coming Up3m
-Problem Overview3m
-Naive Algorithm5m
-Efficient Algorithm3m
-Problem Overview and Naive Algorithm4m
-Efficient Algorithm5m
-Computing Runtimes10m
-Asymptotic Notation6m
-Big-O Notation6m
-Using Big-O10m
-Course Overview10m
+Why Study Algorithms?  
+Coming Up  
+Problem Overview  
+Naive Algorithm  
+Efficient Algorithm  
+Problem Overview and Naive Algorithm  
+Efficient Algorithm  
+Computing Runtimes  
+Asymptotic Notation  
+Big-O Notation  
+Using Big-O   
 
 Practice exercises
-Logarithms10m
-Big-O10m
-Growth rate10m
+Logarithms  
+Big-O  
+Growth rate  
 
 Programming Assignment: Programming Assignment 2: Algorithmic Warm-up
 
 ### Week 3. Greedy Algorithms
 
-Largest Number3m
-Queue of Patients11m
-Implementation and Analysis7m
-Main Ingredients of Greedy Algorithms1m
-Celebration Party Problem3m
-Greedy Algorithm5m
-Implementation and Analysis5m
-Maximizing Loot8m
-Implementation and Analysis10m
-Review4m
+Largest Number  
+Queue of Patients  
+Implementation and Analysis  
+Main Ingredients of Greedy Algorithms  
+Celebration Party Problem  
+Greedy Algorithm  
+Implementation and Analysis  
+Maximizing Loot  
+Implementation and Analysis  
+ 
 
-practice exercises
-Largest Concatenate30m
-Money Change30m
-Puzzle: Balls in boxes30m
-Puzzle: Activity Selection30m
-Puzzle: Touch All Segments30m
+practice exercises  
+Largest Concatenate  
+Money Change  
+Puzzle: Balls in boxes  
+Puzzle: Activity Selection  
+Puzzle: Touch All Segments  
 
 Programming Assignment: Programming Assignment 3: Greedy Algorithms
 
 
 
 ### Week 4. Divide-and-Conquer
-Linear Search7m
-Binary Search7m
-Binary Search Runtime8m
-Problem Overview and Naïve Solution6m
-Naïve Divide and Conquer Algorithm7m
-Faster Divide and Conquer Algorithm6m
-What is the Master Theorem?4m
-Proof of the Master Theorem9m
-Problem Overview2m
-Selection Sort8m
-Merge Sort10m
-Lower Bound for Comparison Based Sorting12m
-Non-Comparison Based Sorting Algorithms7m
-Overview2m
-Algorithm9m
-Random Pivot13m
-Running Time Analysis (optional)15m
-Equal Elements6m
-Final Remarks8m
+Linear Search  
+Binary Search  
+Binary Search Runtime  
+Problem Overview and Naïve Solution  
+Naïve Divide and Conquer Algorithm  
+Faster Divide and Conquer Algorithm  
+What is the Master Theorem?  
+Proof of the Master Theorem  
+Problem Overview  
+Selection Sort  
+Merge Sort  
+Lower Bound for Comparison Based Sorting  
+Non-Comparison Based Sorting Algorithm  
+ 
+Algorithm  
+Random Pivot  
+Running Time Analysis (optional)  
+Equal Elements   
 
 practice exercises
-Linear Search and Binary Search10m
-Puzzle: 21 questions game30m
-Puzzle: Two Adjacent Cells of Opposite Colors30m
-Polynomial Multiplication15m
-Master Theorem10m
-Sorting15m
-Quick Sort15m
-Puzzle: Local Maximum30m
+Linear Search and Binary Search  
+Puzzle: 21 questions game  
+Puzzle: Two Adjacent Cells of Opposite Colors  
+Polynomial Multiplication  
+Master Theorem  
+Sorting  
+Quick Sort  
+Puzzle: Local Maximum  
 
 Programming Assignment: Programming Assignment 4: Divide and Conquer
 
 
 ### Week 5. Dynamic Programming 1
-Change Problem10m
-The Alignment Game8m
-Computing Edit Distance6m
-Reconstructing an Optimal Alignment4m
+Change Problem  
+The Alignment Game  
+Computing Edit Distance  
+Reconstructing an Optimal Alignment  
 
 practice exercises
-Change Money30m
-Puzzle: Number of Paths30m
-Puzzle: Two Rocks Game30m
-Puzzle: Three Rocks Game30m
-Edit Distance30m
-Puzzle: Primitive Calculator30m
+Change Money  
+Puzzle: Number of Paths  
+Puzzle: Two Rocks Game  
+Puzzle: Three Rocks Game  
+Edit Distance  
+Puzzle: Primitive Calculator  
 
 Programming Assignment: Programming Assignment 5: Dynamic Programming 1
 
 ### Week 6. Dynamic Programming 2
-Knapsack with Repetitions10m
-Knapsack without Repetitions18m
-Final Remarks7m
-Problem Overview7m
-Subproblems6m
-Algorithm12m
-Reconstructing a Solution8m
+Knapsack with Repetitions  
+Knapsack without Repetitions  
+Final Remarks  
+Problem Overview  
+Subproblems  
+Algorithm  
+Reconstructing a Solution  
 
-practice exercises
-Knapsack10m
-Maximum Value of an Arithmetic Expression10m
+practice exercises  
+Knapsack    
+Maximum Value of an Arithmetic Expression  
 
 Programming Assignment: Programming Assignment 6: Dynamic Programming 2
 
@@ -135,14 +133,122 @@ A few examples of questions that we are going to cover in this class are the fol
 
 You will also learn how services like Dropbox manage to upload some large files instantly and to save a lot of storage space!
 
-### Week 1.
+### Week 1. Basic Data Structures  
+Video: Arrays  
+Video: Singly-Linked Lists  
+Video: Doubly-Linked Lists  
+Reading: Slides and External References  
+Video: Stacks  
+Video: Queues  
+Reading: Slides and External References  
+Video: Trees  
+Video: Tree Traversal  
+Reading: Slides and External References  
+Practice Quiz: Basic Data Structures  
+Reading: Available Programming Languages  
+Reading: FAQ on Programming Assignments  
+Reading: Acknowledgements  
 
-### Week 2.
+Graded: Programming Assignment 1: Basic Data Structures  
 
-### Week 3.
+### Week 2. Dynamic Arrays and Amortized Analysis
 
-### Week 4.
+Video: Dynamic Arrays  
+Video: Amortized Analysis: Aggregate Method  
+Video: Amortized Analysis: Banker's Method  
+Video: Amortized Analysis: Physicist's Method  
+Video: Amortized Analysis: Summary  
+Reading: Slides and External References  
 
+Graded: Dynamic Arrays and Amortized Analysis  
+
+### Week 3. Priority Queues and Disjoint Sets  
+
+Video: Introduction  
+Video: Naive Implementations of Priority Queues  
+Reading: Slides  
+Video: Binary Trees  
+Reading: Tree Height Remark  
+Video: Basic Operations  
+Video: Complete Binary Trees  
+Video: Pseudocode  
+Reading: Slides and External References  
+Video: Heap Sort  
+Video: Building a Heap  
+Video: Final Remarks  
+Reading: Slides and External References  
+Video: Overview  
+Video: Naive Implementations  
+Reading: Slides and External References  
+Video: Trees for Disjoint Sets  
+Video: Union by Rank  
+Video: Path Compression  
+Video: Analysis (Optional)  
+Reading: Slides and External References  
+Practice Quiz: Priority Queues and Disjoint Sets  
+Ungraded Plugin: Survey  
+
+Graded: Priority Queues: Quiz  
+Graded: Quiz: Disjoint Sets  
+Graded: Programming Assignment 2: Priority Queues and Disjoint Sets  
+
+
+### Week 4. Hash Tables
+
+Video: Applications of Hashing  
+Video: Analysing Service Access Logs  
+Video: Direct Addressing  
+Video: Hash Functions  
+Video: Chaining  
+Video: Chaining Implementation and Analysis  
+Video: Hash Tables  
+Reading: Slides and External References  
+Video: Phone Book Data Structure  
+Video: Universal Family  
+Video: Hashing Phone Numbers  
+Video: Hashing Names  
+Video: Analysis of Polynomial Hashing  
+Reading: Slides and External References  
+Video: Find Substring in Text  
+Video: Rabin-Karp's Algorithm  
+Video: Recurrence for Substring Hashes  
+Video: Improving Running Time  
+Reading: Slides and External References  
+Video: Julia's Diary  
+Video: Julia's Bank  
+Video: Blockchain  
+Video: Merkle Tree  
+Reading: Slides and External References  
+Practice Quiz: Hashing  
+
+Graded: Hash Tables and Hash Functions  
+Graded: Programming Assignment 3: Hash Tables  
+
+
+### Week 5. Binary Search Trees
+
+Video: Introduction  
+Video: Search Trees  
+Video: Basic Operations  
+Video: Balance  
+Reading: Slides and External References  
+Video: AVL Trees  
+Video: AVL Tree Implementation  
+Video: Split and Merge  
+Reading: Slides and External References  
+Practice Quiz: Binary Search Trees  
+
+### Week 6. Binary Search Trees 2
+
+Video: Applications  
+Reading: Slides and External References  
+Video: Splay Trees: Introduction   
+Video: Splay Trees: Implementation  
+Video: (Optional) Splay Trees: Analysis  
+Reading: Slides and External References  
+Practice Quiz: Splay Trees  
+
+Graded: Programming Assignment 4: Binary Search Trees  
 
 # Course 3. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs/home/week/1)
 
