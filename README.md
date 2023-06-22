@@ -1,3 +1,63 @@
+# [Coding Interview Preparation by Meta](https://www.coursera.org/learn/coding-interview-preparation/home/week/1)
+part of Meta Back-End Developer Specialization  
+
+### Week 1. Introduction to the coding interview
+
+Video: Binary  
+Reading: Working in binary  
+Video: Memory  
+Reading: Defining solutions  
+Video: Time complexity  
+Reading: Working with time complexity  
+Practice Quiz: Knowledge check: Time complexity  
+Video: Space complexity  
+Practice Quiz: Knowledge check: Space complexity  
+Video: Module summary: Introduction to the coding interview  
+
+
+### Week 2. Introduction to Data Structures
+Video: Basic data structures  
+Reading: Strings  
+Reading: Integers  
+Reading: Booleans  
+Reading: Arrays  
+Reading: Objects  
+Practice Quiz: Knowledge check: Basic data structures  
+Reading: Additional resources  
+Video: Lists and sets  
+Reading: Lists and sets in different programming languages  
+Video: Stacks and queues  
+Reading: Stacks and queues in different programming languages  
+Video: Trees  
+Reading: Trees in different programming languages  
+Practice Quiz: Knowledge check: Collection data structures  
+Reading: Additional resources  
+Video: Hash tables  
+Reading: Hash tables in different programming languages  
+Video: Heaps  
+Video: Graphs  
+Reading: Heaps and graphs in different programming languages  
+Practice Quiz: Knowledge check: Advanced data structures  
+Video: Module summary: Introduction to data structures  
+
+### Week 3. Introduction to Algorithms  
+Video: Sorting Algorithms  
+Reading: Time and space complexity in sorting algorithms  
+Video: Searching Algorithms  
+Reading: Time and space complexity in search algorithms  
+Practice Quiz: Knowledge check: Sorting and searching  
+Reading: Additional resources  
+Video: Divide and conquer  
+Video: Recursion  
+Video: Dynamic programming  
+Video: Greedy algorithms  
+Discussion Prompt: Where can you use algorithms?  
+Practice Quiz: Knowledge check: Working with algorithms  
+
+
+
+### Week 4. wrapup 
+
 # Data Structures and Algorithms Specialization
 
 # Course 1. [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/week/6)
